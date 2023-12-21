@@ -1,5 +1,5 @@
 layout: page
-title: "Automation and Build Server"
+title: Automation and Build Server
 permalink: /AutomationAndBuildServer
 
 

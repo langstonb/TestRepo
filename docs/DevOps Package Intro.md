@@ -1,5 +1,5 @@
 layout: page
-title: "DevOps Package Intro"
+title: DevOps Package Intro
 permalink: /DevOpsPackageIntro
 
 # DevOps Package
