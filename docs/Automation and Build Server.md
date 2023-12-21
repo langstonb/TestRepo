@@ -1,3 +1,8 @@
+layout: page
+title: "Automation and Build Server"
+permalink: /AutomationAndBuildServer
+
+
 B&R Internal
 
 # Automation & Build Server

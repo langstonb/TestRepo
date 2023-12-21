@@ -1,3 +1,7 @@
+layout: page
+title: "DevOpsPackageSalesOverview"
+permalink: /SalesOverview
+
 # DevOps Package
 
 Sales Overview
